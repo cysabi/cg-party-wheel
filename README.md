@@ -1,7 +1,7 @@
 # `cg-party-wheel`
-> randomizer for party wheel
+> web-based spinner graphic for a splatoon 3 gimmick randomizer tournament
 
-A web-based wheel element that you can configure and spin! 
+A party wheel that you can configure and spin!
 - Using a beta version of [bento](https://github.com/cysabi/bento)!
 
 ## usage
